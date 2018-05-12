@@ -1,0 +1,28 @@
+_repo: Il-mistero-del-poeta_22504
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fogazzaro, Antonio
+    birthdate: 1842
+    deathdate: 1911
+    gutenberg_agent_id: '2759'
+    url: http://www.gutenberg.org/2009/agents/2759
+    wikipedia: http://en.wikipedia.org/wiki/Antonio_Fogazzaro
+description: ''
+gutenberg_bookshelf: IT Romanzi
+gutenberg_issued: '2007-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22504'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+title: Il mistero del poeta
+url: http://www.gutenberg.org/ebooks/22504
